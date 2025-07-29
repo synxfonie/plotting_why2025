@@ -1,5 +1,5 @@
 = plotting_why2025
-
+:toc:
 
 
 == Prepare your PC
