@@ -1,5 +1,7 @@
 = plotting_why2025
 
+
+
 == Prepare your PC
 
 === Installing Inkscape and (optionally) Inkscape-silhouette
@@ -23,12 +25,11 @@ First open the layer overview.
 //include[]
 
 The template consists of different layers. On the top level you got: 
-<ol>
-<li> name: This is where you will add your name and prepare it for cutting
-<li> cut_MIRRORED: This layer is for plotting the motive mirrored
-<li> cut: This layer is for plotting the motive. BE AWARE: The motive is not mirrored, so you can't use it for fabrics. Choose this, if you want to cut paper. 
-<li> g33: The original layers from the WHY2025 prototype svg file (https://gitlab.com/why2025/team-huisstijl/WHY2025_Huisstijl/-/blob/main/SVG%20files/Logo%20SVGs/WHY2025%20prototype%20logo_purple.svg?ref_type=heads)
-</ol>
+
+1. *name*: This is where you will add your name and prepare it for cutting
+2. *cut_MIRRORED*: This layer is for plotting the motive mirrored
+3. *cut*: This layer is for plotting the motive. BE AWARE: The motive is not mirrored, so you can't use it for fabrics. Choose this, if you want to cut paper. 
+4. *g33*: The original layers from the WHY2025 prototype svg file (https://gitlab.com/why2025/team-huisstijl/WHY2025_Huisstijl/-/blob/main/SVG%20files/Logo%20SVGs/WHY2025%20prototype%20logo_purple.svg?ref_type=heads)
 
 You can display or hide a layer clicking on the eye. //include[]
 
@@ -38,12 +39,10 @@ When you open the template only the layer needed to add your name are visible.
 
 To add your name to the motive: 
 
-<ol>
-<li> Click on the "name" layer. (The one with the "T" symbol)
-<li> Choose "Text und Schriftart". //include[]
-<li> Add you name. 
-<li> Change the size of the text until it fits in the red box.
-</ol>
+1. Click on the "name" layer. (The one with the "T" symbol)
+2. Choose "Text und Schriftart". //include[]
+3. Add you name. 
+4. Change the size of the text until it fits in the red box.
 
 Now safe the file. ;) 
 
