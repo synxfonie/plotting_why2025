@@ -1,7 +1,75 @@
 = plotting_why2025
 
-Inkscape & inkscape-silhouette from: https://github.com/fablabnbg/inkscape-silhouette
+== Prepare your PC
 
-logo: gitlab.com/why2025/team-huisstijl/WHY2025_Huisstijl/-/blob/main/SVG files/Logo SVGs/WHY2025 prototype logo_purple.svg?ref_type=heads
-font: https://gitlab.com/why2025/team-huisstijl/why2025-generator/-/blob/main/Beon-Regular.ttf?ref_type=heads
+=== Installing Inkscape and (optionally) Inkscape-silhouette
+
+Install Inkscape as described in: https://github.com/fablabnbg/inkscape-silhouette
+Installation of Inkscape-Silhouette is only necessary if you want to access the plotter from your PC. 
+
+=== Install Beon (Font)
+
+Download the Beon-font from:  https://gitlab.com/why2025/team-huisstijl/why2025-generator/-/blob/main/Beon-Regular.ttf?ref_type=heads
+Install. 
+
+=== Download template
+Get the template from: 
+
+
+== Adapt the template (e.g. add your name)
+
+=== Handling layers 
+First open the layer overview. 
+//include[]
+
+The template consists of different layers. On the top level you got: 
+<ol>
+<li> name: This is where you will add your name and prepare it for cutting
+<li> cut_MIRRORED: This layer is for plotting the motive mirrored
+<li> cut: This layer is for plotting the motive. BE AWARE: The motive is not mirrored, so you can't use it for fabrics. Choose this, if you want to cut paper. 
+<li> g33: The original layers from the WHY2025 prototype svg file (https://gitlab.com/why2025/team-huisstijl/WHY2025_Huisstijl/-/blob/main/SVG%20files/Logo%20SVGs/WHY2025%20prototype%20logo_purple.svg?ref_type=heads)
+</ol>
+
+You can display or hide a layer clicking on the eye. //include[]
+
+When you open the template only the layer needed to add your name are visible. 
+
+=== Editing Name
+
+To add your name to the motive: 
+
+<ol>
+<li> Click on the "name" layer. (The one with the "T" symbol)
+<li> Choose "Text und Schriftart". //include[]
+<li> Add you name. 
+<li> Change the size of the text until it fits in the red box.
+</ol>
+
+Now safe the file. ;) 
+
+=== Preparing name
+
+Next you have to convert the text to a path: 
+
+1. Select the "name" layer. (Again the one with the "T" symbol) 
+2. Click "Umsch"+"Strg"+"C" The text is now converted into a path.
+3. Click "Strg"+")". This will broaden the text a little bit. Making it easier to cut and iron. 
+4. If neccessary move the letters a little away from each other. Make sure they still fit into the red box. 
+5. Select all letters and click "Strg" + "K". This groups them into a single layer.
+6. Last you need to mirror the name by clicking "H"
+
+It is a good time to save the file again. 
+
+=== Add name to "Color1"-layer (optional)
+You only need to add the name if you are going to cut the motive by you self. 
+If not now is the time to share the motive with the people responsible for the plotter machines. 
+
+Duplicate the layer with the mirrored name path. 
+Move it into the Color1-folder. Make sure the name fits into the box there. 
+Safe your file. 
+Now you are ready for the cutting part. 
+
+== Cut out the motive (optional)
+
+== Transfer to your shirt (or bag or whatever you want to)
 
