@@ -16,7 +16,7 @@ Install.
 
 === Download template
 Get the template from: 
-
+https://github.com/synxfonie/plotting_why2025/blob/main/WHY2025_logo_plotter.svg
 
 == Adapt the template (e.g. add your name)
 
